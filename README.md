@@ -199,4 +199,4 @@ The result is a miniature video display built from a laptop, an ESP32, and a sma
 
 ## License
 
-This project is currently under development. A license can be added when the repository is published.
+This project is currently under development.
